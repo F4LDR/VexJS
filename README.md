@@ -139,6 +139,10 @@ Vex.js is built around modular, focused classes inspired by the Flixel architect
 
 ## Documentation
 
+> [!IMPORTANT]
+>
+> Full documentation for Vex.js lives in [`docs/`](./docs/). There, you can see game concepts, API references for all Vex classes, & how-to guides for functions!
+
 - 🤝 **[Contributing Guidelines](docs/CONTRIBUTING.md)**: Pull request workflow, issue templates, and branch rules.
 - 🎨 **[Code Style Guide](docs/CODE_STYLE_GUIDE.md)**: Formatting standards, linting, and naming conventions.
 - 📄 **[MIT License](LICENSE.MD)**: animatinglegend.github.io © 2026
